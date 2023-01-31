@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    width: 50%;
+    margin-right: 20px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #task-list {
+    margin-top: 20px;
+    width: 50%;
+    text-align: left;
+    margin-left: 25%;
+  }
+  
+  #task-list li {
+    list-style: none;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+
+button{
+    padding: 5px;
+    margin-left: 10px;
+    background-color: green;
+    color: white;
+}
