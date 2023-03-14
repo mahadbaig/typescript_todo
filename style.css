@@ -41,4 +41,5 @@ button{
     margin-left: 10px;
     background-color: green;
     color: white;
+    border: none;
 }
